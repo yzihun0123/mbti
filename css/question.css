@@ -13,7 +13,6 @@ body {
   margin-right: auto;
   margin-bottom: 60px;
 }
-
 .progress .value {
   /* 질문 수 만큼 부모크기의 상대 길이를 갖도록 */
   width: 10%;
@@ -42,7 +41,6 @@ body {
   margin-bottom: 30px;
   text-align: center;
 }
-
 .question-box .question {
   font-size: 30px;
   font-weight: 700;
@@ -53,6 +51,6 @@ body {
 
 .question-box .choice {
   font-size: 22px;
-  border-radius: 120px;  
+  border-radius: 120px;
   margin-bottom: 40px;
 }
